@@ -1,5 +1,24 @@
+@import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/plus-jakarta-display.min.css");
+
 .App {
   text-align: center;
+}
+
+*{
+  /* background-color: linear-gradient(to bottom right, #03045e, #023e8a); */
+  font-family: 'Plus Jakarta Display', sans-serif;
+}
+
+.background{
+  background-image: linear-gradient(to bottom right, #03045e, #023e8a);
+}
+
+.bg2{
+  color: #03045e;
+}
+
+.bg3{
+  background-color: #001233;
 }
 
 .App-logo {
